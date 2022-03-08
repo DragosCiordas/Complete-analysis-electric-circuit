@@ -1,1 +1,1 @@
-# Complete-analysis-electric-circuit
+# Complete-analysis-electrical-circuit
